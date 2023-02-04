@@ -9,7 +9,7 @@ nav{
     background-color: white;
 }
 nav ul{
-    margin: auto;
+    margin: auto; 
 }
 nav li{
     justify-content: space-between;
@@ -39,7 +39,7 @@ hr{
     margin-right: 25%;
 }
 
-
+/*1st part of body*/
 
 .how{
     text-align: center;
