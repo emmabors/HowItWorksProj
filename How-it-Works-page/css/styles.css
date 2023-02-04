@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* NAV */
+nav{
+    background-color: white;
+}
+nav ul{
+    margin: auto;
+}
+nav li{
+    justify-content: space-between;
+}
+
+.blue-btn{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border: 2px solid rgb(0, 110, 255);
+    font-weight: bold;
+}
+
+
+/* BODY */
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas: ". .";
+    margin-top: 4%;
+  }
+<<<<<<< HEAD
+  
+hr{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
+.how{
+    text-align: center;
+}
+
+.lorem{
+    text-align: center;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+
+.container-collect{
+    display: flex;
+    justify-content: center;
+    margin-left: 22%;
+    border: rgba(14, 14, 15, 0.206)thin solid;
+    border-radius:25px;
+    margin-right:200px;
+    margin-left: 200px;
+}
+
+li{
+    list-style: none;
+    color: white;
+    text-align: left;
+}
+
+
+
+.pay-header{
+    margin: 20px;
+}
+
+.pay{
+    margin:20px;
+    margin-right: 30%;
+    border-right: 30%
+}
+
+.collect-list{
+   background-color: rgba(0, 26, 254, 0.849);
+   margin-right:20%;
+   text-align: left;
+=======
+.text-body{
+    margin: auto;
+    min-width: 400px;
+}
+h1{
+    font-size: 60px;
+}
+h6{
+    color: gray;
+}
+.blue-dot{
+    color:blue;
+}
+.body-list li{
+    display: inline;
+    margin: 0;
+    padding-left: 0;
+}
+.top-img{
+    margin: auto;
+    max-width: 600px;
+    min-width: 50px;
+    overflow: hidden;
+}
+hr{
+    margin: auto;
+    max-width: 50%;
+>>>>>>> 4fdba6eaaba16416032afa2fd01a763c25cd0d4d
+}
+
+/* FOOTER */
+.footer-items{
+    margin: auto;
+}
+
+.footer-tap{
+    text-align: center;
+    margin: auto;
+}
+
+.footer-list li{
+    display: inline;
+}
+.footer-list-dots{
+    display: inline;
+}
+.footer-btn{
+    margin-top: 5%;
+}
+.green-btn{
+    background-color: rgb(0, 213, 25);
+    color: white;
+    border: 2px solid rgb(0, 213, 25);
+    font-weight: bold;
+}
+
+.white-btn{
+    background-color: white;
+    color: rgb(0, 110, 255);
+    border: 2px solid rgb(0, 110, 255);
+    font-weight: bold;
+}
