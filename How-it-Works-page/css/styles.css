@@ -33,7 +33,6 @@ nav li{
     grid-template-areas: ". .";
     margin-top: 4%;
   }
-<<<<<<< HEAD
   
 hr{
     margin-left: 25%;
@@ -84,7 +83,7 @@ li{
    background-color: rgba(0, 26, 254, 0.849);
    margin-right:20%;
    text-align: left;
-=======
+}
 .text-body{
     margin: auto;
     min-width: 400px;
@@ -112,7 +111,6 @@ h6{
 hr{
     margin: auto;
     max-width: 50%;
->>>>>>> 4fdba6eaaba16416032afa2fd01a763c25cd0d4d
 }
 
 /* FOOTER */
