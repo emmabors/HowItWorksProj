@@ -41,6 +41,13 @@ hr{
 
 /*1st part of body*/
 
+hr{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+/*1st part of body*/
+
 .how{
     text-align: center;
 }
@@ -84,6 +91,8 @@ li{
    margin-right:20%;
    text-align: left;
 }
+
+
 .text-body{
     margin: auto;
     min-width: 400px;
